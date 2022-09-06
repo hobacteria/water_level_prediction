@@ -7,7 +7,7 @@ Created on Sun Aug 21 20:33:08 2022
 
 path = "C:/competition_data/api/"
 
-SERVICE_KEY = "5CADC37E-60D0-4D8F-A4B1-89AA0AAD8ECB"
+SERVICE_KEY = ""
 import pandas as pd
 import numpy as np
 import requests
